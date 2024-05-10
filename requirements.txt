@@ -1,6 +1,6 @@
 matplotlib
 pandas
-plotly
+plotly_chart
 pwntools
 streamlit
 yfinance
